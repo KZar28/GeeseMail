@@ -1,5 +1,18 @@
-# Android chat tutorial: Building A Realtime Messaging App
+GeeseMail Alpha v1.0
+  - 6/12/18
+Created by Kevin Zarzana
 
-These are the project files for the [Scaledrone Android chat tutorial](https://www.scaledrone.com/blog/posts/android-chat-tutorial).
+Powered by Geese and ScaleDrone.
 
-To run this example make sure to replace the `channelID` in [`MainActivity.java`](https://github.com/ScaleDrone/android-chat-tutorial/blob/master/app/src/main/java/com/example/scaledrone/chat/MainActivity.java)
+Purpose:
+  New groupchat app because fuck Groupme, WhatsApp (Facebook), and most importantly to prove Espejo and Jerry wrong.
+
+TODO:
+  - Home Screen
+    - Select Channel rather than hardcode directly into BoolChat channelID
+    - Mostly for commercial purposes, if just for the groupchat then screw it
+
+  - Display Users
+    - On Leave, On Join, and display active users at the top?
+
+  - Store Messages
