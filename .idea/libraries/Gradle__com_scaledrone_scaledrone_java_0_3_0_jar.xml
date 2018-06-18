@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.scaledrone:scaledrone-java:0.3.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.scaledrone/scaledrone-java/0.3.0/43591a9d1f8b0a408610baa76b703058e9f204d5/scaledrone-java-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.scaledrone/scaledrone-java/0.3.0/ea78104b548c993ba40cee9c22d5ef968ea666df/scaledrone-java-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
