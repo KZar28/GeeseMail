@@ -7,4 +7,5 @@
     <string name="message">Send a Goose</string>
     <string name="send_message">Send Message</string>
     <string name="default_Member_Message">This is Who is Online</string>
+    <string name="members_bar">Checking Members...</string>
 </resources>

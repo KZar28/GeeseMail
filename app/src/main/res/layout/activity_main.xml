@@ -16,7 +16,7 @@
         android:ems="10"
         android:inputType="none"
         android:scrollbarAlwaysDrawVerticalTrack="true"
-        android:text="@string/default_Member_Message" />
+        android:text="@string/members_bar" />
 
     <ListView
         android:id="@+id/messages_view"

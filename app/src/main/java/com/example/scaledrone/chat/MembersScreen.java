@@ -23,11 +23,11 @@ public class MembersScreen extends AppCompatActivity {
     /* Floating action button handler */
     public void ButtonHandler(View View){
 
-        /*FloatingActionButton floatingActionButton = View.findViewById(R.id.floatingActionButton2);
+        FloatingActionButton floatingActionButton = View.findViewById(R.id.floatingActionButton);
         floatingActionButton.setOnClickListener(new View.OnClickListener(){
             public void onClick(View View){
-                startActivity(new Intent(View.getContext(), MembersScreen.class));
+                startActivity(new Intent(View.getContext(), SecondActivity.class));
             }
-        });*/
+        });
     }
 }
